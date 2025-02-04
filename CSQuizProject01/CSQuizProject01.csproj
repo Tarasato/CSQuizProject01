@@ -58,6 +58,7 @@
     <Compile Include="FrmQuiz02.Designer.cs">
       <DependentUpon>FrmQuiz02.cs</DependentUpon>
     </Compile>
+    <Compile Include="GlobalData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FrmQuiz01.resx">
